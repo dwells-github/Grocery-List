@@ -1,0 +1,21 @@
+Body {
+    background-color:powderblue;
+    font-size:20px;
+    font-family:Roboto;
+}
+th{
+    font-weight:bold;
+    border: 2px solid black
+}
+table{
+    width:100%
+}
+.wrapper-main{
+    width: 100px;
+    margin:0;
+}
+
+td{
+    border: 2px solid black
+
+}
